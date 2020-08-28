@@ -20,14 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e4690b-6d94-4155-bd38-8ecfb18a0e6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +59,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Task1" />
+  <component name="RunManager" selected="Application.Task3 (1)">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.Task1" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.*" />
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Task3" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.*" />
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.Task3" />
+    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.Task3" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task3" />
-      <item itemvalue="Application.Task1 (1)" />
       <item itemvalue="Application.Task2 (1)" />
       <item itemvalue="Application.Task3 (1)" />
       <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3 (1)" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task2 (1)" />
-        <item itemvalue="Application.Task1 (1)" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +160,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -182,30 +186,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598283708185" />
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1598607003053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598607003053" />
     <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1598131471267">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1598131471267" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598530205469">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1598607432259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668126" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598530205469" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1598530205469">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598607432259" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1598607432259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598530205469" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1598530205469">
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598607432259" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1598607432258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598530205469" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1598530205469">
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598607432258" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1598607432259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598530205469" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598607432259" />
     <state x="540" y="255" key="IDE.errors.dialog" timestamp="1598283439866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,5 +227,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="594" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1598130928963" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598606736601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598606736601" />
   </component>
 </project>
