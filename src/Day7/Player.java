@@ -7,10 +7,10 @@ public class Player {
     private static final int MIN_STAMINA = 0;
     private static int countPlayers = 0;
 
-    public Player(){
-        this.stamina =(int)(Math.random() * 11)+90;
+    public Player() {
+        this.stamina = (int) (Math.random() * 11) + 90;
 
-        if (countPlayers < 6){
+        if (countPlayers < 6) {
             countPlayers++;
         }
     }
@@ -23,21 +23,18 @@ public class Player {
         return countPlayers;
     }
 
-    public void run(){
+    public void run() {
 
-        if(stamina > MIN_STAMINA){
-            stamina -= 1;
-        }else {
-            if (stamina == MIN_STAMINA)
-                countPlayers -= 1;
-        }
+        if (stamina != MIN_STAMINA){
+            stamina--;
+        }else countPlayers--;
     }
 
-    public void info(){
+    public void info() {
         int freePlaces = 6 - countPlayers;
         String info = "";
 
-        switch (freePlaces){
+        switch (freePlaces) {
             case 5:
                 info = "свободных мест";
                 break;
@@ -51,9 +48,9 @@ public class Player {
                 break;
         }
 
-        if (countPlayers < 6){
-            System.out.printf("Команды неполные, еще есть %d %s",freePlaces, info);
-        }else {
+        if (countPlayers < 6) {
+            System.out.printf("Команды неполные, еще есть %d %s", freePlaces, info);
+        } else {
             System.out.println("Мест в командах больше нет");
         }
 
