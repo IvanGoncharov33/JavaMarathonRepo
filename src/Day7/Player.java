@@ -24,10 +24,16 @@ public class Player {
     }
 
     public void run() {
-
-        if (stamina != MIN_STAMINA){
-            stamina--;
-        }else countPlayers--;
+        if (stamina == 0) {
+            return;
+        } else {
+            if (stamina != MIN_STAMINA) {
+                stamina--;
+            }
+            if (stamina == 0) {
+                countPlayers--;
+            }
+        }
     }
 
     public void info() {

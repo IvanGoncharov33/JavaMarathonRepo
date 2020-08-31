@@ -12,13 +12,11 @@ public class Task2 {
 
         while (true) {
             if (player1.getStamina() == 0) {
-                player1.run();
                 break;
             } else {
                 player1.run();
             }
         }
-
         System.out.println(Player.getCountPlayers());
     }
 
