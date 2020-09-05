@@ -17,9 +17,6 @@ public class Courier implements Worker{
 
     @Override
     public void bonus() {
-        if (warehouse.getCountOrder() == 1500){
-            salary *= 3;
-        }
         if (warehouse.getBalance() == 1000000){
             salary *= 2;
         }

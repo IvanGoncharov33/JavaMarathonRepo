@@ -21,9 +21,6 @@ public class Picker implements Worker {
         if (warehouse.getCountOrder() == 1500){
             salary *= 3;
         }
-        if (warehouse.getBalance() == 1000000){
-            salary *= 2;
-        }
     }
     public  int getSalary(){
         return salary;
