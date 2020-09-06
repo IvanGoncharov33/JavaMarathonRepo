@@ -8,10 +8,16 @@ public class Task2 {
         List<Integer> numbersArray = new ArrayList<>();
 
         for (int i = 0; i < 30 ; i++) {
-            numbersArray.add(i);
+            if (i % 2 == 0) {
+                numbersArray.add(i);
+            }
+
         }
         for(int i = 300; i < 350; i++) {
-            numbersArray.add(i);
+
+            if (i % 2 == 0) {
+                numbersArray.add(i);
+            }
         }
         System.out.println(numbersArray);
     }

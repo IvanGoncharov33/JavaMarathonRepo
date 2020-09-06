@@ -28,7 +28,7 @@ public class MusicBand {
 
     public void mergingGroups(MusicBand band) {
        band.groupMember.addAll(this.groupMember);
-       this.groupMember.removeAll(band.groupMember);
+       this.groupMember.clear();
     }
     public void printMembers(){
         System.out.println(groupMember);

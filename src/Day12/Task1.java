@@ -6,8 +6,12 @@ import java.util.List;
 
 public class Task1 {
     public static void main(String[] args) {
-        List<Car> carList = Arrays.asList(new Car("Tesla"),new Car("Volvo"),new Car ("Toyota"),
-                new Car ("Lada"),new Car("Ferrari"));
+        List<Car> carList = new ArrayList<>();
+
+        carList.add(new Car("Tesla"));
+        carList.add(new Car("Volvo"));
+        carList.add(new Car("Lada"));
+        carList.add(new Car("Ferrari"));
 
         System.out.println(carList);
 
