@@ -7,9 +7,7 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-        String designation;
-        int size;
-        int quantity;
+
         String[] infoOfProduct;
         List<String[]> productList = new ArrayList<>();
 
