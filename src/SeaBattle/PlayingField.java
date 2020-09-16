@@ -26,7 +26,7 @@ public class PlayingField {
 
         for (String[] strings : field) {
             for (String string : strings) {
-                System.out.print(string);
+                System.out.print(string + "\t");
             }
             System.out.println("\n");
         }
