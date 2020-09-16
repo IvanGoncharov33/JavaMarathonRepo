@@ -70,7 +70,20 @@
       <recent name="D:\Developer\Projects\JavaMarathon2020\src\Day6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2 (2)">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeaBattle.Main" />
+      <module name="JavaMarathon2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeaBattle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day18.Task1" />
       <module name="JavaMarathon2020" />
@@ -123,33 +136,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day16.Task2" />
-      <module name="JavaMarathon2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Task1 (1)" />
       <item itemvalue="Application.Task2 (1)" />
       <item itemvalue="Application.Task1 (3)" />
       <item itemvalue="Application.Task2 (2)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task2 (2)" />
         <item itemvalue="Application.Task1 (3)" />
         <item itemvalue="Application.Task2 (1)" />
         <item itemvalue="Application.Task1 (1)" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +185,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="550" y="59" key="#Java" timestamp="1600289225006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="59" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1600289225006" />
     <state x="451" y="93" key="#Notifications" timestamp="1598131328848">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -201,58 +205,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599505572832" />
-    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1599508176437">
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1600261816841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599508176437" />
-    <state x="789" y="306" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599296636161">
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600261816841" />
+    <state x="578" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600195027371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="789" y="306" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599296636161" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599505704967">
+    <state x="578" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600195027371" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600201255422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599505704967" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600201255422" />
     <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1598131471267">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1598131471267" />
-    <state width="1877" height="369" key="GridCell.Tab.0.bottom" timestamp="1599908490481">
+    <state width="1877" height="697" key="GridCell.Tab.0.bottom" timestamp="1600289251299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668126" />
-    <state width="1877" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599908490481" />
-    <state width="1877" height="369" key="GridCell.Tab.0.center" timestamp="1599908490480">
+    <state width="1877" height="697" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600289251299" />
+    <state width="1877" height="697" key="GridCell.Tab.0.center" timestamp="1600289251299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599908490480" />
-    <state width="1877" height="369" key="GridCell.Tab.0.left" timestamp="1599908490480">
+    <state width="1877" height="697" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600289251299" />
+    <state width="1877" height="697" key="GridCell.Tab.0.left" timestamp="1600289251299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599908490480" />
-    <state width="1877" height="369" key="GridCell.Tab.0.right" timestamp="1599908490481">
+    <state width="1877" height="697" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600289251299" />
+    <state width="1877" height="697" key="GridCell.Tab.0.right" timestamp="1600289251299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="249" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1598131668125" />
-    <state width="1877" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599908490481" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599905505517">
+    <state width="1877" height="697" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600289251299" />
+    <state width="1877" height="213" key="GridCell.Tab.1.bottom" timestamp="1600287602557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599905505517" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599905505517">
+    <state width="1877" height="213" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600287602557" />
+    <state width="1877" height="213" key="GridCell.Tab.1.center" timestamp="1600287602557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599905505517" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599905505516">
+    <state width="1877" height="213" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600287602557" />
+    <state width="1877" height="213" key="GridCell.Tab.1.left" timestamp="1600287602557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599905505516" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599905505517">
+    <state width="1877" height="213" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600287602557" />
+    <state width="1877" height="213" key="GridCell.Tab.1.right" timestamp="1600287602557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599905505517" />
+    <state width="1877" height="213" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600287602557" />
     <state x="540" y="255" key="IDE.errors.dialog" timestamp="1598283439866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
